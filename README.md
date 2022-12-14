@@ -1,3 +1,3 @@
 # wallmart
 ................
-This is a README file in feture1
+This is a README file
