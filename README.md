@@ -1,3 +1,3 @@
 # wallmart
 ................
-This is a README file in feature1
+This is a README file.
